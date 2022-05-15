@@ -1,0 +1,62 @@
+.image{
+    height:99.3vh;
+    width:100%;
+}
+.main{
+    background-image: url(../assets/character2.jpeg);
+    height:99.5vh;
+    width:100%;
+    /* opacity: 0.5; */
+}
+.page{
+    border: 1px solid black;
+    height:90vh;
+    width:30vw;
+    position:absolute;
+    top:50%;
+    left:20%;
+    transform: translate(-20%, -50%);
+    border-radius: 10px 10px 10px 10px;
+}
+.label{
+    font-weight: 400;
+    position: relative;
+    left:70px;
+}
+.label1{
+    font-weight: 400;
+    position: relative;
+    left:70px;
+    top:18px;
+}
+.input1{
+    position: relative;
+    left:18%;
+    width:20vw;
+    height:8vh
+}
+.input2{
+    position: relative;
+    top:20px;
+    left:18%;
+    width:20vw;
+    height:8vh
+}
+.button{
+    position: relative;
+    top:50px;
+    left:18%;
+    width:20vw;
+
+}
+.button2{
+    position: relative;
+    left:40%;
+    width:5vw;
+    top:80px;
+    border-radius: 15px 15px 15px 15px;
+}
+.heading{
+    position: relative;
+    top:70px;
+}
